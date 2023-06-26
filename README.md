@@ -1,2 +1,1 @@
-0x11. C - print
-Group project
+Repository for the ALX team project for the printf
